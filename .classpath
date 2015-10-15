@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/poi-bin-3.13-20150929/poi-3.13/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/poi-bin-3.13-20150929/poi-3.13/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/UCanAccess-3.0.1-bin/UCanAccess-3.0.1-bin/ucanaccess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/UCanAccess-3.0.1-bin/UCanAccess-3.0.1-bin/loader/ucanload.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/UCanAccess-3.0.1-bin/UCanAccess-3.0.1-bin/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/UCanAccess-3.0.1-bin/UCanAccess-3.0.1-bin/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/UCanAccess-3.0.1-bin/UCanAccess-3.0.1-bin/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/UCanAccess-3.0.1-bin/UCanAccess-3.0.1-bin/lib/jackcess-2.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/poi-bin-3.13-20150929/poi-3.13/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/poi-bin-3.13-20150929/poi-3.13/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/poi-bin-3.13-20150929/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="E:/Users/Chao/Downloads/poi-bin-3.13-20150929/poi-3.13/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
